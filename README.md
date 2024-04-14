@@ -27,10 +27,10 @@ mvn clean install
 
 ## Usage
 
-Run the main class MoneyTransferSimulationMain:
+Run the app by using this command:
 
 ```
-java -cp target/playtox-test-1.0-SNAPSHOT.jar net.olsh4u.Main
+mvn exec:java
 ```
 
 
