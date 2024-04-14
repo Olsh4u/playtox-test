@@ -11,12 +11,12 @@ This project simulates money transfers between accounts using multiple threads. 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/money-transfer-simulation.git
+git clone https://github.com/Olsh4u/playtox-test.git
 ```
 2. Navigate to the project directory:
 
 ```
-cd money-transfer-simulation
+cd playtox-test
 ```
 
 3. Build the project using Maven:
@@ -30,7 +30,7 @@ mvn clean install
 Run the main class MoneyTransferSimulationMain:
 
 ```
-java -cp target/money-transfer-simulation-1.0-SNAPSHOT.jar net.olsh4u.Main
+java -cp target/playtox-test-1.0-SNAPSHOT.jar net.olsh4u.Main
 ```
 
 
